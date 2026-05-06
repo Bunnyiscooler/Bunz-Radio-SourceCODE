@@ -1,2 +1,2 @@
-# Bunz-Radio-SourceCODE
-My Radio site that has full on broadcasting and streaming!
+# Bunz Radio
+## My Radio site that has full on broadcasting and streaming!
